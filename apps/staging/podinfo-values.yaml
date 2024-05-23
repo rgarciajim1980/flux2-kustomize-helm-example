@@ -7,6 +7,7 @@ spec:
   chart:
     spec:
       version: ">=1.0.0-alpha"
+  minReplicas: 3      
   test:
     enable: false
   values:
